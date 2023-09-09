@@ -1,0 +1,14 @@
+input{
+  padding:1rem 1rem ;
+  font-size: 20px;
+  margin: 20px;
+  border-radius: 10px;
+  background-color: rgb(243, 232, 232);
+}
+
+div{
+font-size: 30px;
+margin: 0 20px 20px 20px;
+direction: rtl;
+
+}
