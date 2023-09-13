@@ -1,3 +1,4 @@
+//sum two number
 import { useState } from 'react'
 import './App.css'
 
